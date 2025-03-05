@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/Aneket-Burman/Aneket-Burman/blob/main/Screenshot%202025-03-05%20164242.png" alt="Aneket Burman Logo" width="150"/>
-</p>
+
+<img src="https://github.com/Aneket-Burman/Aneket-Burman/blob/main/Screenshot%202025-03-05%20164242.png" alt="Aneket Burman Logo" width="400" align = "right"/>
 <h1 align="center">Hi 👋, I'm Aneket Burman</h1>
 <h3 align="center">🚀 Electronics Enthusiast | 💻 Web Developer | Blending Circuits with Code!</h3>
 
